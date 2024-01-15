@@ -16,7 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m currently involved in fullstack roles mostly working around JavaScript and TypeScript. 
 - ⚡ In my free time, I am explorting GO programming languange. 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpoudeldev/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpoudeldev/)
 
 ---
 
