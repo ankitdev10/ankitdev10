@@ -53,10 +53,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linyux"  alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg"  title="Neovim"  alt="neovim" width="40" height="40"/>&nbsp;
 
-
 </p>
 ---
----
+
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankitdev10&theme=dark&background=000000)](https://git.io/streak-stats)
