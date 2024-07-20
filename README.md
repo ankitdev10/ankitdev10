@@ -1,8 +1,8 @@
- 
 <p align="center"><img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="100"/></p> 
 <p align="center">
 <a href="https://www.linkedin.com/in/ankitpoudeldev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
+<!-- // -->
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ankitdev10&style=flat-square&color=blue" alt=""></p>
 
@@ -16,8 +16,8 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
-- 🔭 I’m currently involved in fullstack roles mostly working around JavaScript and TypeScript. 
-- ⚡ In my free time, I am explorting GO programming languange. 
+- 🔭 I’m currently involved in fullstack roles mostly working around JavaScript and TypeScript.
+- ⚡ In my free time, I am explorting GO programming languange.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpoudeldev/)
 
 ---
@@ -50,7 +50,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 ---
+
 ### 🛠 &nbsp;Tools :
+
 <p>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linyux"  alt="linux" width="40" height="40"/>&nbsp;
@@ -61,9 +63,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankitdev10&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdev10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
