@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/ankitdev10/personal/master/portfolio/setup.png" width="600" height="300"  /></p>
+
 
 ### 👨‍💻 &nbsp;About Me:
 
